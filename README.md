@@ -7,9 +7,6 @@ This is an anonymous_GitHub_repository for ACL Rolling Review 2023.
 python version == 3.7.13 \
 pip install -r requirement.txt
 
-## Data
-Please download data from [here](https://pan.baidu.com/s/1gImSonez6yWVAOJms2_w0A?pwd=bm9q)  
-
 ## How to run Taichi?
 python main.py \
 --dataset sst2 \
