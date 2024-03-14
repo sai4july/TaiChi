@@ -1,5 +1,8 @@
 # Taichi
 
+This repo contains source code for "TaiChi: Improving the Robustness of NLP Models by Seeking
+Common Ground While Reserving Differences" (accepted to COLING 2024)
+
 ## Environment Configuration
 python version == 3.7.13 \
 pip install -r requirement.txt
